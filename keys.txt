@@ -1,0 +1,2 @@
+sonar-auth-token 
+5c25432746f2c498a9fc641c7292b83af767f856
